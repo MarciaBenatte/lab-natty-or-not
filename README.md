@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# O Papel das IAs Generativas no Processo de Comunicação com Pessoas Autistas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este podcast discorre sobre como as IAs generativas podem apoiar a comunicação de pessoas autistas, superando barreiras sociais e emocionais, mas também destacando desafios e limitações no uso dessas tecnologias.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[ElevenLabs](https://elevenlabs.io/)** para gerar a voz do narrador;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT para a roteirização de um podcast informativo sobre os possíveis benefícios das IAs generativas no processo comunicativo de pessoas autistas e, por fim, o ElevenLabs para dar vida à voz realista de um narrador.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Descubra como as IAs generativas estão transformando a comunicação para pessoas com autismo, oferecendo novas possibilidades de inclusão e interação social, enquanto enfrentam desafios éticos e tecnológicos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+**[PODCAST]https://github.com/user-attachments/assets/79ed63ee-519f-4d05-8ce9-f688ce0fb6b3

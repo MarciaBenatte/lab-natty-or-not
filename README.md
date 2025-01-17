@@ -13,4 +13,4 @@ Usei o ChatGPT para a roteirização de um podcast informativo sobre os possíve
 ## 🚀 Resultados
 Descubra como as IAs generativas estão transformando a comunicação para pessoas com autismo, oferecendo novas possibilidades de inclusão e interação social, enquanto enfrentam desafios éticos e tecnológicos.
 
-**[PODCAST]https://github.com/user-attachments/assets/79ed63ee-519f-4d05-8ce9-f688ce0fb6b3
+**[PODCAST](https://github.com/user-attachments/assets/79ed63ee-519f-4d05-8ce9-f688ce0fb6b3)
